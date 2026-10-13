@@ -1,7 +1,7 @@
-# GitHub Copilot – Project Prompt for triviaquiz.games
+# GitHub Copilot – Project Prompt for octoquizpus.com
 
 ## Context
-This is the code for **triviaquiz.games**, an SEO-optimised quiz website + PWA.
+This is the code for **octoquizpus.com**, an SEO-optimised quiz website + PWA.
 Goal: generate static SEO pages while enabling User-Generated Content (UGC).
 
 ---
@@ -52,7 +52,7 @@ Goal: generate static SEO pages while enabling User-Generated Content (UGC).
 |------|----|
 | `index.html` | `submit/index.html`, `community-questions/index.html` |
 | `submit/index.html` | `community-questions/index.html`, `index.html` |
-| `community-questions/index.html` | `https://bitcoin.triviaquiz.games`, `https://boardgame.triviaquiz.games`, `submit/index.html` |
+| `community-questions/index.html` | `https://bitcoin.octoquizpus.com`, `https://boardgame.octoquizpus.com`, `submit/index.html` |
 
 ---
 
